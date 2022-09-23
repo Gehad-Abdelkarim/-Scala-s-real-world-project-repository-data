@@ -7,8 +7,12 @@ We're going to read in, clean up, and visualize the real world project repositor
 
 ## Answering the following questions:
 1- Is the project still actively maintained?
+
 2- Is there camaraderie in the project?
+
 3-What files were changed in the last ten pull requests?
+
 4-Who made the most pull requests to a given file?
+
 5-Who made the last ten pull requests on a given file?
-6-
+
